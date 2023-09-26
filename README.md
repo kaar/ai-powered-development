@@ -5,6 +5,7 @@
 
 ## ChatGPT
 * [ChatGPT](https://chat.openai.com/)
+* [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter)
 
 ## OpenAI API
 * [OpenAI API](https://platform.openai.com/docs/introduction)
