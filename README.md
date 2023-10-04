@@ -11,6 +11,25 @@ It saves typing not thinking!
 * [How to write better prompts for copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 * [GitHub Team - Copilot License](https://github.com/orgs/tibber/teams/copilot-license)
 
+* [Example](./copilot/example.py)
+
+### GitHub Next (GitHub Copilot X)
+
+* [GitHub Next](https://githubnext.com/)
+* [GitHub Copilot CLI](https://www.npmjs.com/package/@githubnext/github-copilot-cli)
+* [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+
+```bash
+npm install -g @githubnext/github-copilot-cli
+github-copilot-cli auth
+eval "$(github-copilot-cli alias -- "$0")"
+```
+
+```bash
+git? delete current branch
+gh? list open pull requests
+?? find all files ending with .py
+```
 
 ## ChatGPT
 
