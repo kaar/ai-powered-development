@@ -17,6 +17,9 @@ It saves typing not thinking!
 
 * [OpenAI API](https://platform.openai.com/docs/introduction)
 
+* [CI](https://github.com/kaar/ci/)
+Example of how to write your own tool against OpenAI API.
+
 ## Resources
 
 * [StarCoder](https://arxiv.org/abs/2305.06161)
