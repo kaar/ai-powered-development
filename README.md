@@ -15,7 +15,11 @@ It saves typing not thinking!
 ## ChatGPT
 
 * [ChatGPT](https://chat.openai.com/)
+
+### Plugins
+* Diagrams: Show Me
 * [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter)
+
 
 ## OpenAI API
 
