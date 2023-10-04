@@ -7,6 +7,8 @@ It saves typing not thinking!
 * [Copilot](https://github.com/features/copilot)
 * [GitHub.copilot VS Code Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 * [How to write better prompts for copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+* [GitHub Team - Copilot License](https://github.com/orgs/tibber/teams/copilot-license)
+
 
 ## ChatGPT
 
