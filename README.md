@@ -2,6 +2,8 @@
 
 It saves typing not thinking!
 
+* [Slack Channel](https://tibber.slack.com/archives/C05V3L5U8MQ)
+
 ## GitHub Copilot
 
 * [Copilot](https://github.com/features/copilot)
