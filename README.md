@@ -38,6 +38,7 @@ gh? list open pull requests
 ### Plugins
 * Diagrams: Show Me
 * [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter)
+    * [Price Example](https://chat.openai.com/share/43482b88-9035-4a65-8098-52d43378bd9e)
 
 
 ## OpenAI API
